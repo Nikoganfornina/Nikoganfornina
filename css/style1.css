@@ -1,0 +1,153 @@
+*{
+	/* EL MARGIN Y EL PADDING DEL BODY SIEMPRE SE INICIALIZA EN 0 PARA QUE NO HAYA CONFUSIONES NI ERRORES QUE TAPEN OTROS ERRORES A LA  HORA DE IR MODIFICANDO LA WEB  */
+	margin : 0 ;
+	padding : 0 ;
+	box-sizing: border-box;
+	font-family:Arial, Helvetica, sans-serif ;
+	
+}
+
+
+.header {
+
+	/* LLAMAMOS HEADER AL DIV QUE ESTA ANCLADO ARRIBA DE LA WEB , ESTE CONTENDRA  TODAS LAS CABECERAS (ICONO, BUSCADOR , VARIOS ICONOS) */
+
+	background-color: black;
+	width: 100vw;
+	height: 100px;
+	display: flex;
+	flex-direction: row;
+}
+
+.header2 {
+
+	/* LLAMAMOS HEADER2 AL DIV QUE ESTA ANCLADO ARRIBA DE LA WEB PERO DEBAJO DEL HEADER PRINCIPAL , ESTE CONTENDRA  TODAS LAS CABECERAS (ICONO, BUSCADOR , VARIOS ICONOS) */
+	
+	background-color: rgb(53, 53, 53);
+	width: 100vw;
+	height: 50px;
+	display: flex;
+	align-items: center;
+
+}
+
+/* SE USA ALING ITEMS PARA PARA ALINEAR AL CENTRO TODOS LOS ELEMENTOS DEL DIV */
+
+
+.logoIcon {
+
+	/* LLAMAMOS LOGOICON A LA IMAGEN DE LOGO DE LA WEB, CON EL TAMAÑO EXACTO PARA QUE ENTRE EN EL DIV HEADER  */
+	width: 110px;
+	margin-left: 100px;
+}
+
+/* ------------------------------------------------------------------------ */
+/* EMPIEZA CODIGO PARA CREAR  EL NAVEGADOR MOVIL , HASTA FIN DE COMENTARIO ES UN CODIGO PARA ESO  */
+.container {
+	position: absolute;
+	left: 48%;
+	top: 5%;
+	transform: translate(-50%, -50%);
+	padding: 10px;
+}
+
+input {
+	outline: none;
+	box-sizing: border-box;
+	height: 60px;
+	width: 0px;
+	padding: 0 20px;
+	color: #000;
+	border-radius: 50px;
+	font-size: 20px;
+	border: 1px solid #ffffff;
+	transition: all .7s ease;
+}
+
+::placeholder {
+	color: grey;
+}
+
+.btn {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 80px;
+	height: 80px;
+	background: #ffffff;
+	line-height: 80px;
+	border-radius: 50%;
+	text-align: center;
+	cursor: pointer;
+	transition: .5s;
+}
+
+.btn i {
+	font-size: 25px;
+	color: white;
+	line-height: 80px;
+	transition: all .7s ease;
+}
+
+.container:hover input {
+	width: 350px;
+}
+
+.container:hover i {
+	transform: rotate(-360deg);
+}
+
+.btn:hover {
+	background: #ffffff;
+}
+
+.svg {
+	margin-top: 10px;
+}
+
+/* FIN DEL CODIGO DE LA NAVBAR, A PARTIR DE AQUI SE PUEDE SEGUIR COLOCANDO CODIGO  */
+/* ------------------------------------------------------------------------ */
+.usuario,
+.cesta,
+.moneda {
+	width: 65px;
+	height: 65px;
+	cursor: pointer;
+	margin-left: 17px;
+}
+
+.container1 {
+	position: absolute;
+	left: 85%;
+	top: 5%;
+	transform: translate(-50%, -50%);
+	padding: 10px;
+	
+	
+}
+/* ------------------------------------------------------------------------------------------- */
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	
+  }
+  li {
+	float: left;
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+	background-color: #111;
+  }
