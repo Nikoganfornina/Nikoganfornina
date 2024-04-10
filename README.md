@@ -1,6 +1,6 @@
 ### Hola! Me llamo Niko y este es mi repositorio personal  👋
 
-![Nicolás Ganfornina García](https://github.com/Nikoganfornina/Nikoganfornina/assets/145467889/3c885844-62d9-4192-9191-cdf251abf7e6)
+![Nicolás Ganfornina García]()
 
 <!--
 **Nikoganfornina/Nikoganfornina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
