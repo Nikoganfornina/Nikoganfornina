@@ -1,7 +1,8 @@
 # Hola ! Soy Niko Ganfornina García .
 ## ¡Bienvenido/a a mi repositorio!
 
-![BANNER PERSONALIZADO](https://www.canva.com/design/DAGDzTGSxOw/GK1MlQBJDaauMZK_jve04w/view?utm_content=DAGDzTGSxOw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![BANNER PERSONALIZADO](![Uploading banner github.png…]()
+)
 
 
 ## Acerca de mí
