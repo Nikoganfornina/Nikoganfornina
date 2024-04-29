@@ -1,5 +1,7 @@
-### Hola ! Soy Niko Ganfornina García .
+# Hola ! Soy Niko Ganfornina García .
 ## ¡Bienvenido/a a mi repositorio!
+
+!(https://www.canva.com/design/DAGDzTGSxOw/GK1MlQBJDaauMZK_jve04w/view?utm_content=DAGDzTGSxOw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Acerca de mí
 Soy joven, comprometido, responsable y entusiasta, con habilidades para el trabajo en equipo. Busco oportunidades para aplicar mis habilidades y crecer tanto personal como profesionalmente.
@@ -30,12 +32,11 @@ Lista de algunos de tus proyectos más destacados, con enlaces a los repositorio
 
 ## Contacto
 
-# Gmail : Nikoganfornina@gmail.com
+### Gmail : Nikoganfornina@gmail.com
 
 
-### ¡Gracias por visitar mi perfil!
+# ¡Gracias por visitar mi perfil!
 
 
-![Nicolás Ganfornina García]()
 
 
