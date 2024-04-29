@@ -7,8 +7,8 @@
 ## Acerca de mí
 Soy joven, comprometido, responsable y entusiasta, con habilidades para el trabajo en equipo. Busco oportunidades para aplicar mis habilidades y crecer tanto personal como profesionalmente.
 
-Mis proyectos destacados
-Lista de algunos de tus proyectos más destacados, con enlaces a los repositorios correspondientes.
+## Mis proyectos destacados
+(ACTUALIZAR PROYECTOS)
 
 ## Habilidades 
 - Facilidad para adaptarse a cualquier entorno de trabajo
