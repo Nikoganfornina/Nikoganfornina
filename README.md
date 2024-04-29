@@ -1,7 +1,8 @@
 # Hola ! Soy Niko Ganfornina García .
 ## ¡Bienvenido/a a mi repositorio!
 
-![FOTO](https://drive.google.com/file/d/1SKTlz61RlJwzRpKQuOCljxpcYTV8ZfqJ/view?usp=drive_link)
+![FOTO](![FOTO](https://drive.google.com/file/d/1SKTlz61RlJwzRpKQuOCljxpcYTV8ZfqJ/view?usp=sharing)
+)
 
 ## Acerca de mí
 Soy joven, comprometido, responsable y entusiasta, con habilidades para el trabajo en equipo. Busco oportunidades para aplicar mis habilidades y crecer tanto personal como profesionalmente.
