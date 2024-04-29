@@ -1,7 +1,8 @@
 # Hola ! Soy Niko Ganfornina García .
 ## ¡Bienvenido/a a mi repositorio!
 
-![BANNER PERSONALIZADO](https://drive.google.com/file/d/1SKTlz61RlJwzRpKQuOCljxpcYTV8ZfqJ/view)
+![BANNER PERSONALIZADO](https://drive.google.com/uc?id=1SKTlz61RlJwzRpKQuOCljxpcYTV8ZfqJ)
+
 
 
 ## Acerca de mí
