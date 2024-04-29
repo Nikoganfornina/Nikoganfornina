@@ -1,18 +1,41 @@
-### Hola! Me llamo Niko y este es mi repositorio personal  👋
+### Hola ! Soy Niko Ganfornina García .
+## ¡Bienvenido/a a mi repositorio!
+
+## Acerca de mí
+Soy joven, comprometido, responsable y entusiasta, con habilidades para el trabajo en equipo. Busco oportunidades para aplicar mis habilidades y crecer tanto personal como profesionalmente.
+
+Mis proyectos destacados
+Lista de algunos de tus proyectos más destacados, con enlaces a los repositorios correspondientes.
+
+## Habilidades 
+- Facilidad para adaptarse a cualquier entorno de trabajo
+- Responsabilidad y compromiso para por la empresa
+- Habilidades sociales desarrolladas
+- Alta eficiencia en labores de oficina
+- Capacidad de aprendizaje alta
+- Control y versatilidad en Ofimática
+- Habilidades analíticas y de liderazgo
+- Creatividad y pensamiento critico
+
+## Tecnologias 
+- HTML
+- CSS
+- JAVASCRIPT
+- BOOSTRAP
+- JAVA
+- DYNAMICS 365 
+- BUSINESS CENTRAL
+- MYSQL
+- ORACLE 
+
+## Contacto
+
+# Gmail : Nikoganfornina@gmail.com
+
+
+### ¡Gracias por visitar mi perfil!
+
 
 ![Nicolás Ganfornina García]()
 
-<!--
-**Nikoganfornina/Nikoganfornina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
