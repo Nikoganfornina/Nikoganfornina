@@ -1,6 +1,6 @@
 # Hola ! Soy Niko Ganfornina García.
 
-## ¡Bienvenido/a a mi repositorio!
+## ¡Bienvenido/a  a mi repositorio!
 
 ![Mi imagen](https://drive.google.com/uc?id=18AYpKnyFQRWDu2_ixigdvLqHjbfjxSKk)
 
