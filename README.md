@@ -1,7 +1,7 @@
 # Hola ! Soy Niko Ganfornina García .
 ## ¡Bienvenido/a a mi repositorio!
 
-![FOTO](banner github.png)
+![FOTO](banner_github.png)
 
 ## Acerca de mí
 Soy joven, comprometido, responsable y entusiasta, con habilidades para el trabajo en equipo. Busco oportunidades para aplicar mis habilidades y crecer tanto personal como profesionalmente.
