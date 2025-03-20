@@ -4,6 +4,8 @@
 
 Soy un desarrollador apasionado por la tecnología, con especial interés en **Hibernate** y **JavaFX**. Me encanta aprender nuevas tecnologías y crear proyectos innovadores que resuelvan problemas reales. Estoy siempre en busca de desafíos que me permitan crecer profesionalmente.
 
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQGO1a91uNRR3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738090101320?e=1747872000&v=beta&t=8befA0oGb8d0Idb10y3GAP4U3T685xlUuO9AjcSpST0)
+
 ## 💻 Mis Proyectos Destacados
 
 ### 1. **Helofy**
