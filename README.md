@@ -1,44 +1,44 @@
-# Hola ! Soy Niko Ganfornina García.
+# ¡Hola! Soy Niko Ganfornina García 👋
 
-## ¡Bienvenid@s &nbsp; a mi repositorio!
+## Bienvenid@ a mi repositorio 🎉
 
+Soy un desarrollador apasionado por la tecnología, con especial interés en **Hibernate** y **JavaFX**. Me encanta aprender nuevas tecnologías y crear proyectos innovadores que resuelvan problemas reales. Estoy siempre en busca de desafíos que me permitan crecer profesionalmente.
 
+## 💻 Mis Proyectos Destacados
 
-## Acerca de mí
-Soy joven, comprometido, responsable y entusiasta, con habilidades para el trabajo en equipo. Busco oportunidades para aplicar mis habilidades y crecer tanto personal como profesionalmente.
+### 1. **Helofy**
+Un proyecto en desarrollo de un reproductor de música. Aún no está definido el entorno, pero su objetivo es ofrecer una experiencia única de reproducción musical, con funcionalidades innovadoras para los usuarios.
 
-## Mis proyectos destacados
-(ACTUALIZAR PROYECTOS)
+### 2. **Discerial**
+Un juego de **trivial** con temática griega, creado con **JavaFX** para la interfaz gráfica y **Hibernate** para la persistencia de datos. El proyecto permite a los usuarios responder preguntas relacionadas con la mitología griega, poniendo a prueba su conocimiento de una forma divertida e interactiva.
 
-## Habilidades 
-- Facilidad para adaptarse a cualquier entorno de trabajo
-- Responsabilidad y compromiso para por la empresa
-- Habilidades sociales desarrolladas
-- Alta eficiencia en labores de oficina
-- Capacidad de aprendizaje alta
-- Control y versatilidad en Ofimática
-- Habilidades analíticas y de liderazgo
-- Creatividad y pensamiento critico
+## 🔧 Habilidades
 
-## Tecnologias 
-- HTML
-- CSS
-- JAVASCRIPT
-- BOOSTRAP
-- JAVA
-- DYNAMICS 365 
-- BUSINESS CENTRAL
-- MYSQL
-- ORACLE 
+- Adaptabilidad a cualquier entorno de trabajo.
+- Trabajo en equipo y habilidades sociales bien desarrolladas.
+- Alta capacidad de aprendizaje y compromiso.
+- Creatividad y pensamiento crítico.
+- Eficiencia en la resolución de problemas técnicos.
 
-## Contacto
+## 🛠️ Tecnologías y Herramientas
 
-### Gmail : Nikoganfornina@gmail.com
-### IG : NikoGanfornina
-### Linkedin : https://www.linkedin.com/feed/
+- **Java** (Especialmente **Hibernate** y **JavaFX**)
+- **Python**
+- **JSP**, **AJAX**
+- **MySQL**, **MariaDB**, **HeidiSQL**
+- **HTML**, **CSS**, **JavaScript**
+- **Android Studio** (Desarrollo de aplicaciones móviles)
+- **NetBeans**, **IntelliJ IDEA** (IDE principales para desarrollo Java)
+- **Unity** (Desarrollo de juegos)
 
-## ¡Gracias por visitar mi perfil!
+Mi tecnología favorita: **Hibernate** + **JavaFX** 🖥️✨
 
+## 📞 Contacto
 
+- 📧 **Gmail**: Nikoganfornina@gmail.com
+- 📱 **Instagram**: [NikoGanfornina](https://www.instagram.com/NikoGanfornina)
+- 💼 **LinkedIn**: [Niko Ganfornina](https://www.linkedin.com/in/niko-ganfornina)
 
+---
 
+¡Gracias por visitar mi perfil! 🚀
